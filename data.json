@@ -1,0 +1,12 @@
+{
+  "sols": [
+    { "sol": 1, "temperature": -65, "wind": 5, "pressure": 720 },
+    { "sol": 2, "temperature": -70, "wind": 7, "pressure": 710 },
+    { "sol": 3, "temperature": -60, "wind": 6, "pressure": 730 },
+    { "sol": 4, "temperature": -80, "wind": 4, "pressure": 700 },
+    { "sol": 5, "temperature": -75, "wind": 8, "pressure": 690 },
+    { "sol": 6, "temperature": -68, "wind": 6, "pressure": 715 },
+    { "sol": 7, "temperature": -72, "wind": 5, "pressure": 705 }
+  ]
+}
+
